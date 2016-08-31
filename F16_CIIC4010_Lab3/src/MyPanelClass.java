@@ -28,6 +28,6 @@ public class MyPanelClass extends JPanel {
         g.setColor(Color.RED);
         g.drawRect(x1, y1, width, height);
         g.setColor(Color.MAGENTA);
-        g.drawRect(x1+15,y1+15,width-30,height-30);
+        g.drawRect(x1+10,y1+10,width-20,height-20);
 	}
 }
